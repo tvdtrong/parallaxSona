@@ -1,0 +1,68 @@
+body {
+    font-size: large;
+    font-family: "Lato", sans-serif;
+}
+
+.bg {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+}
+
+.bg1 {
+    background-image: url(../img/sona.jpg);
+    height: 1000px;
+    opacity: 0.7;
+}
+
+.bg2 {
+    background-image: url(../img/kinetic.jpg);
+    height: 600px;
+    opacity: 0.7;
+}
+.bg3 {
+    background-image: url(../img/concussive.jpg);
+    height: 600px;
+    opacity: 0.7;
+}
+.bg4 {
+    background-image: url(../img/ethereal.jpg);
+    height: 600px;
+    opacity: 0.7;
+}
+
+
+.caption {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    left: 0;
+    top: 50%; 
+}
+
+.box {
+    padding: 15px 20px 15px 20px;
+    background-color: black;
+    color: white;
+    letter-spacing: 0.3em;
+    font-size: 2em;
+
+}
+.boxBorderless {
+
+
+    color: white;
+    letter-spacing: 0.3em;
+    font-size: 2em;
+
+}
+h2 {
+    text-align: center;
+}
+section {
+    padding: 0 50px 0 50px;
+    line-height: 35px;
+}
